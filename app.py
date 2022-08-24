@@ -10,4 +10,4 @@ st.header("Analyze Gimm`s fairy tales")
 
 #add sidebar with some basic information about the app
 #add logo
-
+logo = Image.open(r"
