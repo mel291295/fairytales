@@ -1,7 +1,7 @@
 # ! python3
 #import all the necessary libraries
 import streamlit as st 
-from gtts import gTTS
+import gTTS
 from googletrans import Translator
 from PIL import Image
 
