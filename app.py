@@ -10,4 +10,5 @@ st.header("Analyze Gimm`s fairy tales")
 
 #add sidebar with some basic information about the app
 #add logo
-logo = Image.open(r"
+logo = Image.open(r"https://github.com/mel291295/fairytales/blob/main/fairytales.jpg")
+st.sidebar.image(logo, width=120)
