@@ -1,3 +1,4 @@
 streamlit==1.8.1
+Image==1.5.33
 googletrans==4.0.0-rc1
 gTTS==2.2.4
