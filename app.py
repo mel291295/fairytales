@@ -1,8 +1,8 @@
 # ! python3
 #import all the necessary libraries
 import streamlit as st 
-import gTTS
 from googletrans import Translator
+from gtts import gTTS
 from PIL import Image
 
 st.title("Once upon a time")
